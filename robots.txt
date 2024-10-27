@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itiyaonu.github.io/sitemap_index.itiyaonu
